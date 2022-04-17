@@ -1,6 +1,7 @@
 <div>
 <h1 align="center">Hello, me chamo João Victor 🤓</h1>
  💻 Developer Jr. em constante desenvolvimento. <br>
+ ⏳ Estudante de Engenharia de Software (UNIME)<br>
  👨‍🎓 Formado em Desenvolvimento Web via Recode PRO 2021.<br> <br>
  💓 Apaixonado por: <br><br>
   <p margin-left="10px">Tecnologia;</p>
@@ -33,6 +34,8 @@
    <br>
    <br>
   <img align="center" alt="devictor4-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="devictor4-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    
    <br>
    <br>
   <img align="center" alt="devictor4-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
