@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hello, me chamo João Victor 🤓</h1>
- 💻 Developer Jr. em constante desenvolvimento. <br>
+ 💻 Web Developer Jr. em constante desenvolvimento. <br>
  ⏳ Estudante de Engenharia de Software (UNIME)<br>
  👨‍🎓 Formado em Desenvolvimento Web via Recode PRO 2021.<br> <br>
  💓 Apaixonado por: <br><br>
@@ -22,19 +22,20 @@
 </div>
   
   <div style="display: inline_block"><br>
-   <h4>⚙️ Stack: <h4> <br>
-  <img align="center" alt="devictor4-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="devictor4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <h4>⚙️ Stack: <h4> 
+   <img align="center" alt="devictor4-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="devictor4-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+   <br>
+   <br>
+    <img align="center" alt="devictor4-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+   <img align="center" alt="devictor4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="devictor4-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="devictor4-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <br>
    <br>
-  <img align="center" alt="devictor4-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" alt="devictor4-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-   <br>
-   <br>
   <img align="center" alt="devictor4-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-   <img align="center" alt="devictor4-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+   <img align="center" alt="devictor4-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img align="center" alt="devictor4-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
     
    <br>
    <br>
