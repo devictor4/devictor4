@@ -12,7 +12,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="500px" height="200px"> </td>
+      <td><img src="0d2e72e0a5cb1c3eac3225e390907cc4.gif" width="550px" height="275px"> </td>
     </tr>
   </table>
 </div>
