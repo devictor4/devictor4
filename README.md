@@ -7,7 +7,7 @@
       <td>
         💻 Junior systems analyst III at @<strong>ACPGroup</strong> <br />
         🫡 2+ years as a Web developer <strong>.NET</strong> <br />
-        ⌛ Analysis and systems development <strong>4/5</strong> <br />
+        ⌛ Analysis and systems development <strong>5/5</strong> <br />
         😬 Beginner English Student <br />
       </td>
     </tr>
