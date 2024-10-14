@@ -2,10 +2,10 @@
   <table style="width: 300px;">
     <tr>
       <td>
-        💻 Junior systems analyst III at @<strong>ACPGroup</strong> <br />
-        🫡 2+ years as a Web developer <strong>.NET</strong> <br />
-        ⌛ Analysis and systems development <strong>5/5</strong> <br />
-        😬 Beginner English Student <br />
+        💻 Analista de Sistemas Jr III no @<strong>DETRAN-BA</strong> <br />
+        🫡 3 anos de experiência com <strong>.NET</strong> <br />
+        ⌛ Análise e Desenvolvimento de Sistemas <strong>5/5</strong> <br />
+        😬 Iniciante no Inglês <br />
       </td>
     </tr>
     <tr>
