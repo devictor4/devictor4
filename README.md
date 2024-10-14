@@ -2,7 +2,7 @@
   <table style="width: 300px;">
     <tr>
       <td>
-        💻 Analista de Sistemas Jr III no @<strong>DETRAN-BA</strong> <br />
+        💻 Analista de Sistemas Jr III na @<strong>Ciberian Tecnologia</strong>  <br />
         🫡 3 anos de experiência com <strong>.NET</strong> <br />
         ⌛ Análise e Desenvolvimento de Sistemas <strong>5/5</strong> <br />
         😬 Iniciante no Inglês <br />
